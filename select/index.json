@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TOMATO",
+  "base_artist": "7co",
+  "createdAt": "2026-03-14T12:50:47.443029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buffalo Tomato",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/01_Buffalo_Tomato_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Emperor Tomato Ketchup",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/02_Emperor_Tomato_Ketchup_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Emperor Tomato Ketchup",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/03_Emperor_Tomato_Ketchup_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomato Can",
+      "artist": "The Arcs",
+      "has_synced": true,
+      "path": "select/04_Tomato_Can_The_Arcs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Found God in a Tomato",
+      "artist": "Psychedelic Porn Crumpets",
+      "has_synced": true,
+      "path": "select/05_Found_God_in_a_Tomato_Psychedelic_Porn_Crumpets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Potato Tomato",
+      "artist": "Decisive Pink",
+      "has_synced": true,
+      "path": "select/06_Potato_Tomato_Decisive_Pink.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hang On Little Tomato",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/07_Hang_On_Little_Tomato_Pink_Martini.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hang on Little Tomato",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/08_Hang_on_Little_Tomato_Pink_Martini.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tomato In The Rain",
+      "artist": "Kaiser Chiefs",
+      "has_synced": false,
+      "path": "select/09_Tomato_In_The_Rain_Kaiser_Chiefs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Say Tomato, I say Tomato",
+      "artist": "Louis Armstrong feat. Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/10_You_Say_Tomato,_I_say_Tomato_Louis_Armstrong_feat._Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Say Tomato, I say Tomato",
+      "artist": "Louis Armstrong & Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/11_You_Say_Tomato,_I_say_Tomato_Louis_Armstrong_&_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toyin Tomato",
+      "artist": "Falz",
+      "has_synced": true,
+      "path": "select/12_Toyin_Tomato_Falz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOMATO",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_TOMATO_7co.txt"
+    }
+  ]
+}
